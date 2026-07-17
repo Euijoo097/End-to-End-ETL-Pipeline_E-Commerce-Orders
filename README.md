@@ -128,6 +128,9 @@ Pipeline runs can be monitored through the Dagster UI (assets, lineage, and run 
 ### 9. Spyder Run (`etl_pipeline_spyder.py`)
 ![Spyder full log](spyder_full_log.png)
 
+### 10. Complete Pipeline Execution Log
+![Complete pipeline execution log](orchestrator_full_terminal.png)
+
 ## Author
 
 **Alifia Chika Intan (Nevie)**

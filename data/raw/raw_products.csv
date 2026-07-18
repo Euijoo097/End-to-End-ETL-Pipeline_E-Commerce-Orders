@@ -1,0 +1,11 @@
+product_id,product_name,kategori,harga_satuan
+P001,Laptop ASUS VivoBook,Elektronik,7500000
+P002,Mouse Logitech M330,Elektronik,250000
+P003,Meja Kerja Minimalis,Furniture,1200000
+P004,Kursi Ergonomis,Furniture,2800000
+P005,"Monitor Samsung 24""",Elektronik,2100000
+P006,Keyboard Mechanical,Elektronik,450000
+P007,Lampu Meja LED,Furniture,175000
+P008,Headset Bluetooth,Elektronik,350000
+P009,Rak Buku 4 Tingkat,Furniture,650000
+P010,Webcam HD 1080p,Elektronik,280000

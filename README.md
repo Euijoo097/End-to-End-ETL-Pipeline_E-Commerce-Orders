@@ -58,7 +58,9 @@ End-to-End-ETL-Pipeline_E-Commerce-Orders/
 │   └── utils/                            # logging & notification helpers
 ├── README.md
 ├── dagster_project/                      # Definitions, schedules, sensors
-├── docs/                                 # etl_design.md, migration notes
+├── docs/                                 
+│   ├── etl_design.md
+│   ├── migration notes     
 ├── notebooks/                            # Spyder trigger notebook
 └── tests
 ```

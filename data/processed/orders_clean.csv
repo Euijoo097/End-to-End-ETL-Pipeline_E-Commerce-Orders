@@ -1,1 +1,111 @@
-
+order_id,product_id,product_name,kategori,quantity,total_harga,tanggal_order,kota,channel,status,customer_email,bulan,kategori_harga
+ORD-10041,P005,"Monitor Samsung 24""",Elektronik,2,4200000.0,2024-11-07 00:00:00,Solo,website,cancelled,customer28@email.com,November,besar
+ORD-10020,P006,Keyboard Mechanical,Elektronik,1,450000.0,2024-05-18 00:00:00,Bandung,website,cancelled,unknown@placeholder.com,May,kecil
+ORD-10032,P001,Laptop ASUS VivoBook,Elektronik,1,7500000.0,2024-06-03 00:00:00,Makassar,mobile_app,completed,customer2@email.com,June,besar
+ORD-10116,P002,Mouse Logitech M330,Elektronik,5,1250000.0,2024-06-28 10:51:00,Malang,marketplace,completed,customer1@email.com,June,sedang
+ORD-10057,P004,Kursi Ergonomis,Furniture,3,8400000.0,2024-05-13 00:00:00,Surabaya,website,pending,customer30@email.com,May,besar
+ORD-10070,P003,Meja Kerja Minimalis,Furniture,5,6000000.0,2024-07-06 00:00:00,Yogyakarta,marketplace,shipped,customer12@email.com,July,besar
+ORD-10106,P008,Headset Bluetooth,Elektronik,3,1050000.0,2024-06-08 00:00:00,Medan,mobile_app,completed,unknown@placeholder.com,June,sedang
+ORD-10082,P010,Webcam HD 1080p,Elektronik,4,1120000.0,2024-05-22 00:00:00,Semarang,mobile_app,completed,customer31@email.com,May,sedang
+ORD-10027,P005,"Monitor Samsung 24""",Elektronik,2,4200000.0,2024-07-01 08:32:00,Denpasar,website,completed,customer22@email.com,July,besar
+ORD-10096,P008,Headset Bluetooth,Elektronik,3,1050000.0,2024-07-15 00:00:00,Jakarta,website,shipped,customer15@email.com,July,sedang
+ORD-10028,P008,Headset Bluetooth,Elektronik,5,1750000.0,2024-08-07 00:00:00,Bandung,website,completed,customer31@email.com,August,sedang
+ORD-10065,P004,Kursi Ergonomis,Furniture,5,14000000.0,2024-05-25 00:00:00,Denpasar,marketplace,completed,unknown@placeholder.com,May,besar
+ORD-10005,P001,Laptop ASUS VivoBook,Elektronik,2,15000000.0,2024-03-06 00:00:00,Semarang,website,cancelled,customer26@email.com,March,besar
+ORD-10098,P001,Laptop ASUS VivoBook,Elektronik,3,22500000.0,2024-11-05 00:00:00,Makassar,mobile_app,shipped,customer50@email.com,November,besar
+ORD-10101,P008,Headset Bluetooth,Elektronik,2,700000.0,2024-07-12 00:00:00,Makassar,website,shipped,customer32@email.com,July,sedang
+ORD-10081,P005,"Monitor Samsung 24""",Elektronik,1,2100000.0,2024-12-07 00:00:00,Malang,website,completed,customer50@email.com,December,besar
+ORD-10094,P001,Laptop ASUS VivoBook,Elektronik,1,7500000.0,2024-05-17 00:00:00,Malang,marketplace,completed,customer31@email.com,May,besar
+ORD-10085,P002,Mouse Logitech M330,Elektronik,5,1250000.0,2024-06-17 20:37:00,Jakarta,website,cancelled,customer24@email.com,June,sedang
+ORD-10019,P001,Laptop ASUS VivoBook,Elektronik,3,22500000.0,2024-05-10 00:00:00,Makassar,mobile_app,completed,customer18@email.com,May,besar
+ORD-10011,P006,Keyboard Mechanical,Elektronik,4,1800000.0,2024-06-09 22:18:00,Solo,marketplace,cancelled,customer40@email.com,June,sedang
+ORD-10012,P008,Headset Bluetooth,Elektronik,2,700000.0,2024-05-12 00:00:00,Medan,marketplace,completed,customer43@email.com,May,sedang
+ORD-10039,P002,Mouse Logitech M330,Elektronik,3,750000.0,2024-07-13 00:00:00,Malang,marketplace,completed,customer49@email.com,July,sedang
+ORD-10046,P001,Laptop ASUS VivoBook,Elektronik,5,37500000.0,2024-05-14 00:00:00,Malang,website,completed,customer45@email.com,May,besar
+ORD-10071,P010,Webcam HD 1080p,Elektronik,1,280000.0,2024-06-10 00:00:00,Surabaya,marketplace,completed,customer21@email.com,June,kecil
+ORD-10079,P010,Webcam HD 1080p,Elektronik,4,1120000.0,2024-07-09 17:16:00,Surabaya,mobile_app,cancelled,customer23@email.com,July,sedang
+ORD-10048,P006,Keyboard Mechanical,Elektronik,5,2250000.0,2024-05-09 00:00:00,Surabaya,marketplace,completed,customer1@email.com,May,besar
+ORD-10001,P007,Lampu Meja LED,Furniture,4,700000.0,2024-05-08 00:00:00,Makassar,mobile_app,cancelled,customer32@email.com,May,sedang
+ORD-10013,P004,Kursi Ergonomis,Furniture,4,11200000.0,2024-05-13 00:00:00,Jakarta,marketplace,completed,customer33@email.com,May,besar
+ORD-10043,P002,Mouse Logitech M330,Elektronik,2,500000.0,2024-06-24 00:00:00,Malang,website,completed,unknown@placeholder.com,June,sedang
+ORD-10052,P006,Keyboard Mechanical,Elektronik,5,2250000.0,2024-05-27 00:00:00,Denpasar,mobile_app,pending,customer41@email.com,May,besar
+ORD-10068,P006,Keyboard Mechanical,Elektronik,1,450000.0,2024-06-19 00:00:00,Semarang,website,completed,customer20@email.com,June,kecil
+ORD-10114,P007,Lampu Meja LED,Furniture,2,350000.0,2024-05-18 00:00:00,Yogyakarta,website,completed,customer23@email.com,May,kecil
+ORD-10090,P006,Keyboard Mechanical,Elektronik,4,1800000.0,2024-05-02 00:00:00,Denpasar,mobile_app,completed,customer14@email.com,May,sedang
+ORD-10016,P006,Keyboard Mechanical,Elektronik,2,900000.0,2024-07-28 19:24:00,Malang,marketplace,completed,customer18@email.com,July,sedang
+ORD-10078,P003,Meja Kerja Minimalis,Furniture,2,2400000.0,2024-05-27 00:00:00,Bandung,website,shipped,unknown@placeholder.com,May,besar
+ORD-10023,P003,Meja Kerja Minimalis,Furniture,2,2400000.0,2024-07-11 08:37:00,Jakarta,mobile_app,completed,customer36@email.com,July,besar
+ORD-10045,P004,Kursi Ergonomis,Furniture,2,5600000.0,2024-06-20 00:00:00,Solo,website,shipped,customer35@email.com,June,besar
+ORD-10066,P008,Headset Bluetooth,Elektronik,1,350000.0,2024-05-27 20:55:00,Semarang,marketplace,completed,customer46@email.com,May,kecil
+ORD-10031,P005,"Monitor Samsung 24""",Elektronik,1,2100000.0,2024-06-24 00:00:00,Makassar,marketplace,cancelled,customer17@email.com,June,besar
+ORD-10063,P008,Headset Bluetooth,Elektronik,2,700000.0,2024-06-13 00:00:00,Medan,mobile_app,cancelled,customer28@email.com,June,sedang
+ORD-10004,P001,Laptop ASUS VivoBook,Elektronik,3,22500000.0,2024-05-23 19:50:00,Solo,website,completed,unknown@placeholder.com,May,besar
+ORD-10010,P006,Keyboard Mechanical,Elektronik,2,900000.0,2024-05-23 14:18:00,Bandung,marketplace,completed,customer33@email.com,May,sedang
+ORD-10034,P007,Lampu Meja LED,Furniture,5,875000.0,2024-06-23 00:00:00,Malang,website,completed,customer21@email.com,June,sedang
+ORD-10067,P006,Keyboard Mechanical,Elektronik,3,1350000.0,2024-05-16 00:00:00,Malang,mobile_app,pending,customer46@email.com,May,sedang
+ORD-10026,P004,Kursi Ergonomis,Furniture,2,5600000.0,2024-05-19 00:00:00,Medan,website,completed,unknown@placeholder.com,May,besar
+ORD-10029,P004,Kursi Ergonomis,Furniture,2,5600000.0,2024-07-21 00:00:00,Medan,marketplace,pending,customer26@email.com,July,besar
+ORD-10099,P006,Keyboard Mechanical,Elektronik,2,900000.0,2024-07-19 00:00:00,Bandung,mobile_app,completed,customer21@email.com,July,sedang
+ORD-10073,P010,Webcam HD 1080p,Elektronik,2,560000.0,2024-06-17 00:00:00,Denpasar,marketplace,cancelled,customer3@email.com,June,sedang
+ORD-10054,P005,"Monitor Samsung 24""",Elektronik,1,2100000.0,2024-06-19 21:23:00,Surabaya,website,completed,customer3@email.com,June,besar
+ORD-10006,P001,Laptop ASUS VivoBook,Elektronik,2,15000000.0,2024-05-27 13:44:00,Jakarta,marketplace,cancelled,customer50@email.com,May,besar
+ORD-10069,P009,Rak Buku 4 Tingkat,Furniture,1,650000.0,2024-05-26 00:00:00,Yogyakarta,website,shipped,unknown@placeholder.com,May,sedang
+ORD-10074,P006,Keyboard Mechanical,Elektronik,4,1800000.0,2024-07-18 00:00:00,Jakarta,mobile_app,completed,unknown@placeholder.com,July,sedang
+ORD-10040,P002,Mouse Logitech M330,Elektronik,1,250000.0,2024-06-09 00:00:00,Solo,website,completed,customer29@email.com,June,kecil
+ORD-10050,P001,Laptop ASUS VivoBook,Elektronik,5,37500000.0,2024-08-06 00:00:00,Semarang,mobile_app,shipped,unknown@placeholder.com,August,besar
+ORD-10036,P008,Headset Bluetooth,Elektronik,4,1400000.0,2024-07-11 00:00:00,Semarang,website,completed,customer30@email.com,July,sedang
+ORD-10017,P007,Lampu Meja LED,Furniture,2,350000.0,2024-07-16 22:40:00,Surabaya,mobile_app,cancelled,unknown@placeholder.com,July,kecil
+ORD-10022,P002,Mouse Logitech M330,Elektronik,2,500000.0,2024-05-24 00:00:00,Medan,website,shipped,customer6@email.com,May,sedang
+ORD-10035,P005,"Monitor Samsung 24""",Elektronik,3,6300000.0,2024-07-15 00:00:00,Solo,mobile_app,completed,unknown@placeholder.com,July,besar
+ORD-10008,P002,Mouse Logitech M330,Elektronik,3,750000.0,2024-05-10 00:00:00,Yogyakarta,mobile_app,pending,customer27@email.com,May,sedang
+ORD-10044,P004,Kursi Ergonomis,Furniture,3,8400000.0,2024-07-15 00:00:00,Medan,marketplace,completed,customer36@email.com,July,besar
+ORD-10077,P006,Keyboard Mechanical,Elektronik,2,900000.0,2024-07-28 00:00:00,Bandung,mobile_app,shipped,customer8@email.com,July,sedang
+ORD-10105,P010,Webcam HD 1080p,Elektronik,3,840000.0,2024-08-07 00:00:00,Jakarta,mobile_app,completed,customer2@email.com,August,sedang
+ORD-10111,P001,Laptop ASUS VivoBook,Elektronik,5,37500000.0,2024-07-27 00:00:00,Jakarta,website,completed,customer16@email.com,July,besar
+ORD-10014,P008,Headset Bluetooth,Elektronik,2,700000.0,2024-06-14 00:00:00,Medan,marketplace,completed,unknown@placeholder.com,June,sedang
+ORD-10095,P005,"Monitor Samsung 24""",Elektronik,4,8400000.0,2024-07-09 15:36:00,Jakarta,mobile_app,cancelled,customer10@email.com,July,besar
+ORD-10018,P008,Headset Bluetooth,Elektronik,1,350000.0,2024-07-19 00:00:00,Solo,website,cancelled,customer4@email.com,July,kecil
+ORD-10102,P006,Keyboard Mechanical,Elektronik,5,2250000.0,2024-06-25 00:00:00,Solo,website,completed,customer5@email.com,June,besar
+ORD-10007,P010,Webcam HD 1080p,Elektronik,4,1120000.0,2024-10-05 00:00:00,Medan,mobile_app,shipped,customer15@email.com,October,sedang
+ORD-10084,P003,Meja Kerja Minimalis,Furniture,5,6000000.0,2024-05-06 00:00:00,Malang,mobile_app,shipped,unknown@placeholder.com,May,besar
+ORD-10113,P009,Rak Buku 4 Tingkat,Furniture,2,1300000.0,2024-05-10 00:00:00,Yogyakarta,website,cancelled,customer24@email.com,May,sedang
+ORD-10115,P007,Lampu Meja LED,Furniture,4,700000.0,2024-06-16 14:20:00,Solo,website,cancelled,customer31@email.com,June,sedang
+ORD-10055,P010,Webcam HD 1080p,Elektronik,3,840000.0,2024-07-14 00:00:00,Denpasar,mobile_app,completed,customer17@email.com,July,sedang
+ORD-10051,P008,Headset Bluetooth,Elektronik,2,700000.0,2024-05-10 00:00:00,Surabaya,marketplace,cancelled,customer9@email.com,May,sedang
+ORD-10120,P001,Laptop ASUS VivoBook,Elektronik,4,30000000.0,2024-06-06 00:00:00,Makassar,mobile_app,shipped,customer30@email.com,June,besar
+ORD-10047,P002,Mouse Logitech M330,Elektronik,5,1250000.0,2024-11-06 00:00:00,Jakarta,mobile_app,pending,customer35@email.com,November,sedang
+ORD-10109,P008,Headset Bluetooth,Elektronik,5,1750000.0,2024-07-24 00:00:00,Denpasar,marketplace,completed,customer13@email.com,July,sedang
+ORD-10062,P003,Meja Kerja Minimalis,Furniture,4,4800000.0,2024-07-15 00:00:00,Malang,mobile_app,pending,customer3@email.com,July,besar
+ORD-10080,P008,Headset Bluetooth,Elektronik,2,700000.0,2024-05-04 00:00:00,Surabaya,website,completed,customer34@email.com,May,sedang
+ORD-10092,P006,Keyboard Mechanical,Elektronik,1,450000.0,2024-05-16 20:12:00,Malang,marketplace,completed,customer1@email.com,May,kecil
+ORD-10042,P010,Webcam HD 1080p,Elektronik,1,280000.0,2024-07-13 00:00:00,Makassar,mobile_app,completed,unknown@placeholder.com,July,kecil
+ORD-10059,P002,Mouse Logitech M330,Elektronik,4,1000000.0,2024-06-18 00:00:00,Bandung,website,shipped,customer25@email.com,June,sedang
+ORD-10091,P008,Headset Bluetooth,Elektronik,5,1750000.0,2024-01-05 00:00:00,Malang,marketplace,completed,customer21@email.com,January,sedang
+ORD-10049,P006,Keyboard Mechanical,Elektronik,5,2250000.0,2024-06-22 22:17:00,Surabaya,website,completed,customer45@email.com,June,besar
+ORD-10089,P008,Headset Bluetooth,Elektronik,2,700000.0,2024-07-11 00:00:00,Surabaya,website,pending,customer30@email.com,July,sedang
+ORD-10112,P006,Keyboard Mechanical,Elektronik,5,2250000.0,2024-04-06 00:00:00,Malang,website,cancelled,customer35@email.com,April,besar
+ORD-10058,P008,Headset Bluetooth,Elektronik,3,1050000.0,2024-05-19 00:00:00,Malang,website,shipped,customer30@email.com,May,sedang
+ORD-10076,P008,Headset Bluetooth,Elektronik,2,700000.0,2024-06-03 00:00:00,Semarang,marketplace,completed,customer3@email.com,June,sedang
+ORD-10033,P004,Kursi Ergonomis,Furniture,3,8400000.0,2024-07-03 00:00:00,Makassar,marketplace,completed,customer32@email.com,July,besar
+ORD-10060,P004,Kursi Ergonomis,Furniture,4,11200000.0,2024-05-03 00:00:00,Bandung,marketplace,completed,customer29@email.com,May,besar
+ORD-10064,P001,Laptop ASUS VivoBook,Elektronik,1,7500000.0,2024-05-05 00:00:00,Jakarta,mobile_app,shipped,unknown@placeholder.com,May,besar
+ORD-10110,P005,"Monitor Samsung 24""",Elektronik,1,2100000.0,2024-07-14 17:12:00,Bandung,mobile_app,cancelled,customer30@email.com,July,besar
+ORD-10038,P006,Keyboard Mechanical,Elektronik,2,900000.0,2024-05-04 00:00:00,Surabaya,marketplace,completed,customer12@email.com,May,sedang
+ORD-10030,P002,Mouse Logitech M330,Elektronik,2,500000.0,2024-06-11 00:00:00,Jakarta,mobile_app,completed,customer19@email.com,June,sedang
+ORD-10108,P010,Webcam HD 1080p,Elektronik,4,1120000.0,2024-06-15 00:00:00,Yogyakarta,website,cancelled,customer34@email.com,June,sedang
+ORD-10002,P010,Webcam HD 1080p,Elektronik,5,1400000.0,2024-12-06 00:00:00,Surabaya,website,completed,customer6@email.com,December,sedang
+ORD-10053,P004,Kursi Ergonomis,Furniture,1,2800000.0,2024-06-21 00:00:00,Malang,mobile_app,shipped,customer47@email.com,June,besar
+ORD-10003,P009,Rak Buku 4 Tingkat,Furniture,1,650000.0,2024-09-07 00:00:00,Yogyakarta,mobile_app,cancelled,customer13@email.com,September,sedang
+ORD-10024,P002,Mouse Logitech M330,Elektronik,4,1000000.0,2024-05-12 00:00:00,Yogyakarta,mobile_app,pending,customer18@email.com,May,sedang
+ORD-10100,P005,"Monitor Samsung 24""",Elektronik,3,6300000.0,2024-05-22 00:00:00,Solo,marketplace,cancelled,customer7@email.com,May,besar
+ORD-10088,P007,Lampu Meja LED,Furniture,3,525000.0,2024-03-06 00:00:00,Medan,mobile_app,pending,customer16@email.com,March,sedang
+ORD-10119,P004,Kursi Ergonomis,Furniture,3,8400000.0,2024-07-28 00:00:00,Jakarta,marketplace,completed,customer23@email.com,July,besar
+ORD-10075,P001,Laptop ASUS VivoBook,Elektronik,2,15000000.0,2024-05-03 00:00:00,Yogyakarta,mobile_app,cancelled,customer4@email.com,May,besar
+ORD-10087,P007,Lampu Meja LED,Furniture,4,700000.0,2024-05-24 00:00:00,Bandung,marketplace,cancelled,customer10@email.com,May,sedang
+ORD-10083,P003,Meja Kerja Minimalis,Furniture,4,4800000.0,2024-05-28 00:00:00,Jakarta,marketplace,completed,customer50@email.com,May,besar
+ORD-10021,P009,Rak Buku 4 Tingkat,Furniture,4,2600000.0,2024-05-23 00:00:00,Yogyakarta,marketplace,pending,customer13@email.com,May,besar
+ORD-10061,P001,Laptop ASUS VivoBook,Elektronik,2,15000000.0,2024-07-14 21:41:00,Yogyakarta,website,completed,customer31@email.com,July,besar
+ORD-10072,P001,Laptop ASUS VivoBook,Elektronik,2,15000000.0,2024-07-27 00:00:00,Jakarta,marketplace,pending,customer25@email.com,July,besar
+ORD-10015,P001,Laptop ASUS VivoBook,Elektronik,4,30000000.0,2024-07-21 00:00:00,Medan,mobile_app,pending,customer12@email.com,July,besar
+ORD-10093,P009,Rak Buku 4 Tingkat,Furniture,3,1950000.0,2024-06-08 00:00:00,Solo,marketplace,completed,customer11@email.com,June,sedang
+ORD-10103,P006,Keyboard Mechanical,Elektronik,5,2250000.0,2024-07-19 19:52:00,Denpasar,marketplace,completed,customer29@email.com,July,besar

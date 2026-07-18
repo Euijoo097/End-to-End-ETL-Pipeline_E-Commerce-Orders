@@ -53,6 +53,10 @@ End-to-End-ETL-Pipeline_E-Commerce-Orders/
 │   │   └── orchestrator.py               # CLI/notebook entrypoint with retry + notify
 │   │   └── etl_pipeline_dagster.py       # core Extract–Transform–Load logic
 │   ├── assets/                           # Dagster asset definitions (raw/cleaned/marts)
+│   │   └── __init__.py
+│   │   └── cleaned.py
+│   │   └── marts.py
+│   │   └── raw.py
 │   ├── checks/                           # Dagster Asset Checks
 │   ├── resources/                        # DuckDB resource config
 │   └── utils/                            # logging & notification helpers

@@ -50,16 +50,16 @@ End-to-End-ETL-Pipeline_E-Commerce-Orders/
 │   └── spyder_full_log.png
 ├── src/
 │   ├── pipeline/
-│   │   └── orchestrator.py
-│   │   └── etl_pipeline_spyder.py
-│   ├── assets
-│   ├── checks
-│   ├── resources
-│   └── utils
+│   │   └── orchestrator.py               # CLI/notebook entrypoint with retry + notify
+│   │   └── etl_pipeline_dagster.py       # core Extract–Transform–Load logic
+│   ├── assets/                           # Dagster asset definitions (raw/cleaned/marts)
+│   ├── checks/                           # Dagster Asset Checks
+│   ├── resources/                        # DuckDB resource config
+│   └── utils/                            # logging & notification helpers
 ├── README.md
-├── dagster_project
-├── docs
-├── notebooks
+├── dagster_project/                      # Definitions, schedules, sensors
+├── docs/                                 # etl_design.md, migration notes
+├── notebooks/                            # Spyder trigger notebook
 └── tests
 ```
 

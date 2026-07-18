@@ -31,6 +31,12 @@ This project demonstrates a complete ETL pipeline for e-commerce order data. Raw
 ```
 End-to-End-ETL-Pipeline_E-Commerce-Orders/
 ├── data/
+│   ├── raw/
+│   │   ├── raw_orders.csv
+│   │   └── raw_products.csv
+│   └── processed/
+│       ├── orders_clean.csv
+│       └── summary_report.csv
 ├── screenshot/
 │   ├── dagster_assets_list.png
 │   ├── dagster_asset_lineage.png
@@ -43,6 +49,12 @@ End-to-End-ETL-Pipeline_E-Commerce-Orders/
 │   ├── cli_notification_summary.png
 │   └── spyder_full_log.png
 ├── src/
+│   ├── pipeline/
+│   │   └── orchestrator.py
+│   ├── assets
+│   ├── checks
+│   ├── resources
+│   └── utils
 ├── README.md
 ├── dagster_project
 ├── docs
